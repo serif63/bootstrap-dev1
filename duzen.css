@@ -1,0 +1,12 @@
+.button{
+    background-color: blue;
+    padding: 12px 24px;
+    font-size: 12px;
+   text-align: center;
+    border-radius: 2px;
+    display: inline-block;
+}
+.boyutimg {
+    max-width: 150px;
+   max-height: 150px;
+    }
